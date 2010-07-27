@@ -1,4 +1,4 @@
-### Lanza el script de la instalación:
+### Launch the installation script:
 
     $ pwd
     install-chef-server
