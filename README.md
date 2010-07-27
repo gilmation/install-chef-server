@@ -5,9 +5,9 @@
     $ ./launch
     Usage: launch user host
 
-### Check the configuration in
+### Check the configuration on the server in:
 
-Comprobar la configuración en /etc/chef/*.rb
+    /etc/chef/*.rb
 
 ### Create a local repository for your recipes
 
